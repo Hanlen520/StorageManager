@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StorageManager</string>
+    <string-array name="units">
+        <item>MB</item>
+        <item>KB</item>
+        <item>B</item>
+    </string-array>
+</resources>
